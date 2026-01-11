@@ -22,7 +22,7 @@ An AI Architect designs large-scale AI systems and strategies, focusing on techn
 
 ## Interview Focus Areas
 
-- System design for AI
+- System design for AI/ML
 - Scalability and performance
 - Trade-offs and decisions
 - Team leadership
