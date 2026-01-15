@@ -41,4 +41,5 @@ An AI Architect designs large-scale AI systems and strategies, focusing on techn
 - System Design on Financial Applications
 - System Design on E-Commerce Applications
 - System Design on Gaming Applications
+- System Design on Autonomous Vehicles
 
