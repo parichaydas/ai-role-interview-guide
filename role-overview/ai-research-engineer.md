@@ -34,4 +34,3 @@ An AI Research Engineer combines software engineering with research, working on 
 - Scalability and performance
 - Trade-offs and decisions
 - Team leadership
-- Strategic planning
