@@ -30,7 +30,7 @@ An AI Research Engineer combines software engineering with research, working on 
 
 ## Use Cases
 - Technology evaluation and selection
-- System design for AI/ML/LLM
+
 
 
 
