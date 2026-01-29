@@ -25,7 +25,7 @@ An AI Research Engineer combines software engineering with research, working on 
 - Deep learning fundamentals
 - Current research trends
 - Algorithm implementation
-- Experimental 
+-  
 
 
 
