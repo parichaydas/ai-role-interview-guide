@@ -24,5 +24,4 @@ Designing ML systems for production requires careful consideration of multiple c
 - Batch processing pipelines
 - Real-time inference services
 - Online learning systems
-- Multi-model ensembles
 
