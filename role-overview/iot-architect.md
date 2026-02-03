@@ -36,4 +36,10 @@ An IoT Architect designs and leads the architecture of Internet of Things system
 - Firmware update approaches and rollbacks
 - Operational concerns: monitoring, cost, and device fleet management
 
+## Domains & Use Cases
 
+- Industrial IoT (IIoT) and manufacturing automation
+- Smart cities and infrastructure
+- Connected vehicles and telematics
+- Consumer IoT and smart home devices
+- Healthcare monitoring and medical devices
