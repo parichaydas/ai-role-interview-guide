@@ -43,7 +43,7 @@ An IoT Architect designs and leads the architecture of Internet of Things system
 - Connected vehicles and telematics
 - Consumer IoT and smart home devices
 - Healthcare and wearables
-- Agriculture and environmental monitoring
+
 
 
 
